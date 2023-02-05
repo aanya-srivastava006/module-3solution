@@ -1,6 +1,6 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 3 Coding Assignment, completed.
 
-link: 
+link: https://aanya-srivastava006.github.io/module-3solution/
 
 Time to complete: About 1 hour or less.
 
